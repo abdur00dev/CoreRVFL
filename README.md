@@ -305,7 +305,11 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For questions related to the implementation or the paper, please open a GitHub issue.
+For questions related to the implementation or the paper, please feel free to open a GitHub issue or contact:
+
+**A. Rahaman**  
+Department of Mathematics, Indian Institute of Technology Indore, India  
+📧 **Email:** [phd2401141001@iiti.ac.in](mailto:phd2401141001@iiti.ac.in) or [abdurrhamanx@gmail.com](mailto:abdurrhamanx@gmail.com)
 
 Repository:  
 https://github.com/abdur00dev/CoreRVFL
