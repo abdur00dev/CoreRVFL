@@ -60,7 +60,6 @@ For clarity, the implementation currently uses the following function names:
 
 | Paper name | Python function |
 |---|---|
-| RVFL | `RVFL_Model` |
 | CoreRVFL | `MTC_RVFL_Model` |
 | CoreRVFLa | `MMTC_RVFLa_Model` |
 | CoreRVFLb | `MMTC_RVFLb_Model` |
